@@ -21,7 +21,7 @@
     "lit-html": "1.*.*"
   },
   "devDependencies": {
-    "electron": "4.*.*",
+    "electron": "15.*.*",
     "electron-packager": "13.*.*"
   }
 }
